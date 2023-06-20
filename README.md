@@ -2,7 +2,7 @@
 [![GiorgioCitterio's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgioCitterio&theme=midnight-purple)](https://github.com/GiorgioCitterio/GiorgioCitterio/)
 <!--[![GiorgioCitterio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GiorgioCitterio)](https://github.com/GiorgioCitterio/github-readme-stats)-->
 
-<a href="https://github.com/GiorgioCitterio/WeatherForecastAppMAUI">
+<a href="https://github.com/GiorgioCitterio/WeatherForecastAppMAUI" padding=10>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=WeatherForecastAppMAUI&theme=midnight-purple" />
 </a>
 <a href="https://github.com/GiorgioCitterio/MemoryMAUI">
