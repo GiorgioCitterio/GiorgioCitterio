@@ -1,15 +1,15 @@
-[![GiorgioCitterio's Profile](https://github-readme-stats.vercel.app/api?username=GiorgioCitterio&theme=midnight-purple)](https://github.com/GiorgioCitterio/GiorgioCitterio/) 
-[![GiorgioCitterio's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgioCitterio&theme=midnight-purple)](https://github.com/GiorgioCitterio/GiorgioCitterio/)
-[![GiorgioCitterio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gigiosnow)](https://github.com/GiorgioCitterio/github-readme-stats)
+[![GiorgioCitterio's Profile](https://github-readme-stats.vercel.app/api?username=GiorgioCitterio&theme=nightowl)](https://github.com/GiorgioCitterio/GiorgioCitterio/) 
+[![GiorgioCitterio's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgioCitterio&theme=nightowl)](https://github.com/GiorgioCitterio/GiorgioCitterio/)
+[![GiorgioCitterio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gigiosnow&theme=nightowl)](https://github.com/GiorgioCitterio/github-readme-stats)
 
 <a href="https://github.com/GiorgioCitterio/WeatherForecastAppMAUI" padding=10>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=WeatherForecastAppMAUI&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=WeatherForecastAppMAUI&theme=nightowl" />
 </a>
 <a href="https://github.com/GiorgioCitterio/MemoryMAUI" padding=10>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=MemoryMAUI&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=MemoryMAUI&theme=nightowl" />
 </a>
 <a href="https://github.com/GiorgioCitterio/Motor-and-Sensor-Control-on-Arduino-Raspberry-Pi-and-ESP" padding=10>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=Motor-and-Sensor-Control-on-Arduino-Raspberry-Pi-and-ESP&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=Motor-and-Sensor-Control-on-Arduino-Raspberry-Pi-and-ESP&theme=nightowl" />
 </a>
 <br></br>
 
