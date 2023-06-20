@@ -5,10 +5,10 @@
 <a href="https://github.com/GiorgioCitterio/WeatherForecastAppMAUI" padding=10>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=WeatherForecastAppMAUI&theme=midnight-purple" />
 </a>
-<a href="https://github.com/GiorgioCitterio/MemoryMAUI">
+<a href="https://github.com/GiorgioCitterio/MemoryMAUI" padding=10>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=MemoryMAUI&theme=midnight-purple" />
 </a>
-<a href="https://github.com/GiorgioCitterio/Motor-and-Sensor-Control-on-Arduino-Raspberry-Pi-and-ESP">
+<a href="https://github.com/GiorgioCitterio/Motor-and-Sensor-Control-on-Arduino-Raspberry-Pi-and-ESP" padding=10>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=Motor-and-Sensor-Control-on-Arduino-Raspberry-Pi-and-ESP&theme=midnight-purple" />
 </a>
 <br></br>
