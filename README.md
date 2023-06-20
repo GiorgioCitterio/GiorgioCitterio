@@ -15,9 +15,11 @@ Welcome to my GitHub profile! I'm Giorgio Citterio, a passionate developer who l
 <a href="https://github.com/GiorgioCitterio/WeatherForecastAppMAUI" style="padding: 10px; margin: 5px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=WeatherForecastAppMAUI&theme=nightowl" />
 </a>
+
 <a href="https://github.com/GiorgioCitterio/MemoryMAUI" style="padding: 10px; margin: 5px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=MemoryMAUI&theme=nightowl" />
 </a>
+
 <a href="https://github.com/GiorgioCitterio/Motor-and-Sensor-Control-on-Arduino-Raspberry-Pi-and-ESP" style="padding: 10px; margin: 5px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=Motor-and-Sensor-Control-on-Arduino-Raspberry-Pi-and-ESP&theme=nightowl" />
 </a>
