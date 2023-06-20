@@ -1,6 +1,6 @@
-# Hello there! 👋
+<!--# Hello there! 👋
 
-Welcome to my GitHub profile! I'm Giorgio Citterio, a passionate developer who loves programming and technology.
+Welcome to my GitHub profile! I'm Giorgio Citterio, a passionate developer who loves programming and technology.-->
 
 ## Stats
 
