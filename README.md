@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Giorgio Citterio, a passionate developer who l
 
 [![GiorgioCitterio's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgioCitterio&theme=nightowl)](https://github.com/GiorgioCitterio/GiorgioCitterio/)
 
-[![GiorgioCitterio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gigiosnow)](https://github.com/anuraghazra/github-readme-stats)
+[![GiorgioCitterio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gigiosnow&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Popular Projects
 
