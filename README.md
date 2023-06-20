@@ -1,6 +1,6 @@
 [![GiorgioCitterio's Profile](https://github-readme-stats.vercel.app/api?username=GiorgioCitterio&theme=midnight-purple)](https://github.com/GiorgioCitterio/GiorgioCitterio/) 
 [![GiorgioCitterio's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgioCitterio&theme=midnight-purple)](https://github.com/GiorgioCitterio/GiorgioCitterio/)
-[![GiorgioCitterio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GiorgioCitterio)](https://github.com/anuraghazra/github-readme-stats)
+[![GiorgioCitterio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GiorgioCitterio)](https://github.com/GiorgioCitterio/github-readme-stats)
 <a href="https://github.com/GiorgioCitterio/WeatherForecastAppMAUI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=WeatherForecastAppMAUI&theme=midnight-purple" />
 </a>
