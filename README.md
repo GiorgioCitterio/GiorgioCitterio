@@ -2,13 +2,13 @@
 [![GiorgioCitterio's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgioCitterio&theme=midnight-purple)](https://github.com/GiorgioCitterio/GiorgioCitterio/)
 
 <a href="https://github.com/GiorgioCitterio/WeatherForecastAppMAUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=WeatherForecastAppMAUI&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=WeatherForecastAppMAUI&theme=midnight-purple" />
 </a>
 <a href="https://github.com/GiorgioCitterio/MemoryMAUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=MemoryMAUI&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=MemoryMAUI&theme=midnight-purple" />
 </a>
 <a href="https://github.com/GiorgioCitterio/Motor-and-Sensor-Control-on-Arduino-Raspberry-Pi-and-ESP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=Motor-and-Sensor-Control-on-Arduino-Raspberry-Pi-and-ESP&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=Motor-and-Sensor-Control-on-Arduino-Raspberry-Pi-and-ESP&theme=midnight-purple" />
 </a>
 <br></br>
 <p align="center">
