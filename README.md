@@ -24,6 +24,10 @@ Welcome to my GitHub profile! I'm Giorgio Citterio, a passionate developer who l
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=Motor-and-Sensor-Control-on-Arduino-Raspberry-Pi-and-ESP&theme=nightowl" />
 </a>
 
+<a href="https://github.com/GiorgioCitterio/Shelly_3EM_control" style="padding: 10px; margin: 5px;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=Shelly_3EM_control&theme=nightowl" />
+</a>
+
 ## Languages and Tools
 
 <p align="center">
