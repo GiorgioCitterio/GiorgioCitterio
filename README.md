@@ -4,13 +4,14 @@ Welcome to my GitHub profile! I'm Giorgio Citterio, a passionate developer who l
 
 ## Stats
 
-[![GiorgioCitterio's Profile](https://github-readme-stats.vercel.app/api?username=GiorgioCitterio&theme=nightowl)](https://github.com/GiorgioCitterio/GiorgioCitterio/)
+<!-- [![GiorgioCitterio's Profile](https://github-readme-stats.vercel.app/api?username=GiorgioCitterio&theme=nightowl)](https://github.com/GiorgioCitterio/GiorgioCitterio/) -->
 
 [![GiorgioCitterio's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgioCitterio&theme=nightowl)](https://github.com/GiorgioCitterio/GiorgioCitterio/)
 
-[![GiorgioCitterio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gigiosnow&theme=nightowl)](https://github.com/GiorgioCitterio)
 
-## Popular Projects
+<!--  [![GiorgioCitterio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gigiosnow&theme=nightowl)](https://github.com/GiorgioCitterio) -->
+
+<!-- ## Popular Projects
 
 <a href="https://github.com/GiorgioCitterio/WeatherForecastAppMAUI" style="padding: 10px; margin: 5px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=WeatherForecastAppMAUI&theme=nightowl" />
@@ -27,6 +28,7 @@ Welcome to my GitHub profile! I'm Giorgio Citterio, a passionate developer who l
 <a href="https://github.com/GiorgioCitterio/Shelly_3EM_control" style="padding: 10px; margin: 5px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgioCitterio&repo=Shelly_3EM_control&theme=nightowl" />
 </a>
+-->
 
 ## Languages and Tools
 
